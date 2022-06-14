@@ -1,1 +1,1 @@
-# The journal to the data structure and algorithms.
+# The journey to the data structure and algorithms.
